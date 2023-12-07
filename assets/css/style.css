@@ -4378,7 +4378,7 @@ index_v4
 }
 
 .bybit_v4_footer_sect {
-  background: url(../images/bg/1234.jpg);
+  /* background: url(../images/bg/1234.jpg); */
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
